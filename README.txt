@@ -2,6 +2,7 @@ EMBERWILD REALMS
 ================
 Play alone:   python play.py            (opens the game in your browser)
 Host co-op:   python play.py --lan      (prints the address your friends open)
+Host co-op with password: python play.py --lan --password you_password
 
 Friends: open the address the host's console prints (e.g. http://192.168.1.20:8000),
 choose "Co-op multiplayer" on the title screen, type a name and the same address, then Join.
